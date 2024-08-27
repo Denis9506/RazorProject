@@ -1,0 +1,24 @@
+﻿@page
+@model RazorProject.Pages.CreateModel
+
+<h2>Add New Car</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Car.Brand" class="control-label"></label>
+        <input asp-for="Car.Brand" class="form-control" />
+        <span asp-validation-for="Car.Brand" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Car.Model" class="control-label"></label>
+        <input asp-for="Car.Model" class="form-control" />
+        <span asp-validation-for="Car.Model" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Car.Year" class="control-label"></label>
+        <input asp-for="Car.Year" class="form-control" />
+        <span asp-validation-for="Car.Year" class="text-danger"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

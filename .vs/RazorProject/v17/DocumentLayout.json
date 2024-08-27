@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Den\\IT\\ASP.NET\\RazorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|c:\\den\\it\\asp.net\\razorproject\\razorproject\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|c:\\den\\it\\asp.net\\razorproject\\razorproject\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|c:\\den\\it\\asp.net\\razorproject\\razorproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|c:\\den\\it\\asp.net\\razorproject\\razorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|c:\\den\\it\\asp.net\\razorproject\\razorproject\\razorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E9BAD7-22CF-48D5-A692-3F6EDCA17399}|RazorProject\\RazorProject.csproj|solutionrelative:razorproject\\razorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RazorContext.cs",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\RazorContext.cs",
+              "RelativeDocumentMoniker": "RazorProject\\RazorContext.cs",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\RazorContext.cs",
+              "RelativeToolTip": "RazorProject\\RazorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:28:28.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorProject\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorProject\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T16:25:09.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorProject\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorProject\\Pages\\Create.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:21:50.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorProject\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\Pages\\Create.cshtml",
+              "RelativeToolTip": "RazorProject\\Pages\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T16:21:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\Program.cs",
+              "RelativeDocumentMoniker": "RazorProject\\Program.cs",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\RazorProject\\RazorProject\\Program.cs",
+              "RelativeToolTip": "RazorProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:18:25.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
